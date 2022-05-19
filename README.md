@@ -4,9 +4,10 @@ Project overview
 
 # Goals
 
-1. Put goals here
-2. Put more goals here
+1. To create an automated chatbot that will respond to user input
+2.
 
 # Notes
 
-Put notes here
+1. React FE
+2. Node/MongoDB BE
