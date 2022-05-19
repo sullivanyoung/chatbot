@@ -1,7 +1,8 @@
 import * as React from "react";
+import "./app.css";
 
 export const AppContainer = () => {
-  return <h1>Put your code here</h1>;
+  return <span className="bg-green">hello world</span>;
 };
 
 export default AppContainer;
